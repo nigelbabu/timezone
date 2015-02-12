@@ -92,8 +92,8 @@
   {
     "name": "Sander van der Waal",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/87/9f/879f41506e1385e9f6d0bcbf9908de50.jpg",
-    "city": "London",
-    "tz": "Europe/London"
+    "city": "Amsterdam",
+    "tz": "Europe/Amsterdam"
   },
   {
     "name": "Adrià Mercader",
@@ -172,5 +172,17 @@
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/12/dd/12ddbd5d0ae5817506cd56c086f9acd0.jpg",
     "city": "Delhi",
     "tz": "Asia/Kolkata"
+  },
+  {
+    "name": "Daniela Mattern",
+    "avatar": "https://secure.gravatar.com/avatar/fc7348901e5e27fe6edf63a2e8ce8894.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F8390%2Fimg%2Favatars%2Fava_0003.png",
+    "city": "Berlin",
+    "tz": "Europe/Berlin"
+  },
+  {
+    "name": "Mor Rubinstein",
+    "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-22/3270417003_c82bd3a20cb863f454ad_192.jpg",
+    "city": "Oxford",
+    "tz": "Europe/London"
   }
 ]

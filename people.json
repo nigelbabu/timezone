@@ -152,7 +152,7 @@
   {
     "name": "Matt Moore",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/a9/97/a9970a0bdd3f64643cf0efb1830d096a.jpg",
-    "city": "Brigend",
+    "city": "Bridgend",
     "tz": "Europe/London"
   },
   {
@@ -188,6 +188,12 @@
   {
     "name": "Rahul Ghosh",
     "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-05-28/2359743516_192.jpg",
+    "city": "London",
+    "tz": "Europe/London"
+  },
+  {
+    "name": "Arturas Verbickas",
+    "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-01/3118092997_dfcc398e0631ceb0a6f4_192.jpg",
     "city": "London",
     "tz": "Europe/London"
   }

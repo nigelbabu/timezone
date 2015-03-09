@@ -84,18 +84,6 @@
     "tz": "Europe/London"
   },
   {
-    "name": "Sally Deffor",
-    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/38/ea/38eacb866eb6998dedcee88b6b7a0e88.jpg",
-    "city": "London",
-    "tz": "Europe/London"
-  },
-  {
-    "name": "Sander van der Waal",
-    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/87/9f/879f41506e1385e9f6d0bcbf9908de50.jpg",
-    "city": "Amsterdam",
-    "tz": "Europe/Amsterdam"
-  },
-  {
     "name": "Adrià Mercader",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/9e/03/9e0304a9e04c37e2c6e203e357439dd0.jpg",
     "city": "Newcastle",
@@ -120,22 +108,10 @@
     "tz": "Europe/London"
   },
   {
-    "name": "Sean Hammond",
-    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/1d/dd/1ddd6e318e16af320e78613019933fcb.jpg",
-    "city": "Edinburgh",
-    "tz": "Europe/London"
-  },
-  {
     "name": "Tryggvi Björgvinsson",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/5e/8b/5e8b3da595e596736617df17bcf9a1dc.jpg",
     "city": "Reykjavik",
     "tz": "Atlantic/Reykjavik"
-  },
-  {
-    "name": "Irina Bolychevsky",
-    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/0f/dd/0fdd7a5bfd976f43e635120933dc8a95.jpg",
-    "city": "London",
-    "tz": "Europe/London"
   },
   {
     "name": "Cassandra Woolford",

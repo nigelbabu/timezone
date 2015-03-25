@@ -144,12 +144,6 @@
     "tz": "Asia/Kolkata"
   },
   {
-    "name": "Daniela Mattern",
-    "avatar": "https://secure.gravatar.com/avatar/fc7348901e5e27fe6edf63a2e8ce8894.jpg?s=192&d=https%3A%2F%2Fslack.global.ssl.fastly.net%2F8390%2Fimg%2Favatars%2Fava_0003.png",
-    "city": "Berlin",
-    "tz": "Europe/Berlin"
-  },
-  {
     "name": "Mor Rubinstein",
     "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-22/3270417003_c82bd3a20cb863f454ad_192.jpg",
     "city": "Oxford",

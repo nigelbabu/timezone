@@ -114,12 +114,6 @@
     "tz": "Europe/Lisbon"
   },
   {
-    "name": "Matt Moore",
-    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/a9/97/a9970a0bdd3f64643cf0efb1830d096a.jpg",
-    "city": "Bridgend",
-    "tz": "Europe/London"
-  },
-  {
     "name": "Meg Foulkes",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/41/a9/41a93b5c79ae1311e76975ab41019901.jpg",
     "city": "London",
@@ -151,7 +145,7 @@
   },
   {
     "name": "Arturas Verbickas",
-    "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-01/3118092997_dfcc398e0631ceb0a6f4_192.jpg",
+    "avatar": "/images/arturas.jpg",
     "city": "London",
     "tz": "Europe/London"
   }

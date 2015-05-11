@@ -14,7 +14,7 @@
   {
     "name": "Katelyn Rogers",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/fd/bd/fdbde2f5edc70ef77d8f1697910bd8d3.jpg",
-    "city": "Berlin",
+    "city": "London",
     "tz": "Europe/Berlin"
   },
   {
@@ -134,8 +134,8 @@
   {
     "name": "Mor Rubinstein",
     "avatar": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2014-12-22/3270417003_c82bd3a20cb863f454ad_192.jpg",
-    "city": "Oxford",
-    "tz": "Europe/London"
+    "city": "Tel Aviv",
+    "tz": "Asia/Jerusalem"
   },
   {
     "name": "Rahul Ghosh",

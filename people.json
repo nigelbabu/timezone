@@ -15,7 +15,7 @@
     "name": "Katelyn Rogers",
     "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/fd/bd/fdbde2f5edc70ef77d8f1697910bd8d3.jpg",
     "city": "London",
-    "tz": "Europe/Berlin"
+    "tz": "Europe/London"
   },
   {
     "name": "Naomi Lillie",
@@ -148,5 +148,11 @@
     "avatar": "/images/arturas.jpg",
     "city": "London",
     "tz": "Europe/London"
+  },
+  {
+    "name": "Pavel Richter",
+    "avatar": "https://d22739b8qd5enr.cloudfront.net/media/cache/36/39/36390beccdcc5c1b2e056b455bfd3633.jpg",
+    "city": "Berlin",
+    "tz": "Europe/Berlin"
   }
 ]
